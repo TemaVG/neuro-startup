@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-![Логотип компании](https://raw.githubusercontent.com/netology-code/git-homeworks/main/pics/logo.png)
+![логотип компании](https://raw.githubusercontent.com/netology-code/git-homeworks/main/pics/logo.png)
 
 **NeuroStartUp** — динамически развивающийся стартап, специализирующийся на поиске и использовании новейших технологий искусственного интеллекта.
 
